@@ -1,0 +1,13 @@
+.navbar .navbar-nav .nav-link:hover{
+    color: #F29F05;
+    border-bottom: 1px solid #F29F05;
+    cursor: pointer;
+}
+.navbar .navbar-nav .nav-link.active{
+    color: #F29F05;
+    border-bottom: 1px solid #F29F05;
+    cursor: pointer;
+}
+.navbar-background {
+    background-image: url('../../public/background-1.png');
+}

@@ -1,0 +1,19 @@
+.hero-heading h1{
+    font-weight: bold;
+    width: 53%;
+    text-transform: capitalize;
+}
+.hero-heading p{
+    width: 73%;
+}
+@media (max-width: 768px) {
+    .delivery-img{
+        width: -webkit-fill-available;
+    }
+    .hero-heading h1{
+        width: 100%;
+    }
+    .hero-heading p {
+        width: 100%;
+    }
+}
